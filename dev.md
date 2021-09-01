@@ -1,2 +1,2 @@
 # hey
-some chnges
+some changes
